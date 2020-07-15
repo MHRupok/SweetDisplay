@@ -4,15 +4,11 @@ An organized print in java
 Dowanload the .jar file. Import it.
 Create an Object like ( Display D = new Display())
 Then pass a string.
-D.showMenuBar("Java");
-D.showInTable("Programmer");
+D.showMenuBar(" ");
+D.showInTable(" ");
 D.endBar("");
 
-Output: 
-+=================+
-| Java            |
-+=================+
-| Programmer      |
-+=================+
+Expected Output like:
+![](Preview.PNG)
 
 
